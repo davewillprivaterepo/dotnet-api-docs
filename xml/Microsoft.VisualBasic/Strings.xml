@@ -57,11 +57,12 @@
     </MemberGroup>
     <Member MemberName="Asc">
       <MemberSignature Language="C#" Value="public static int Asc (char String);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Asc(char String) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Asc(char String) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Asc(System.Char)" />
       <MemberSignature Language="VB.NET" Value="Public Function Asc (String As Char) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Asc(char String);" />
       <MemberSignature Language="F#" Value="static member Asc : char -&gt; int" Usage="Microsoft.VisualBasic.Strings.Asc String" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Asc(char String) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -114,10 +115,11 @@
     </Member>
     <Member MemberName="Asc">
       <MemberSignature Language="C#" Value="public static int Asc (string String);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Asc(string String) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Asc(string String) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Asc(System.String)" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Asc(System::String ^ String);" />
       <MemberSignature Language="F#" Value="static member Asc : string -&gt; int" Usage="Microsoft.VisualBasic.Strings.Asc String" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Asc(string String) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -179,11 +181,12 @@
     </MemberGroup>
     <Member MemberName="AscW">
       <MemberSignature Language="C#" Value="public static int AscW (char String);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 AscW(char String) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 AscW(char String) cil managed" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.AscW(System.Char)" />
       <MemberSignature Language="VB.NET" Value="Public Function AscW (String As Char) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int AscW(char String);" />
       <MemberSignature Language="F#" Value="static member AscW : char -&gt; int" Usage="Microsoft.VisualBasic.Strings.AscW String" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 AscW(char String) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -236,10 +239,11 @@
     </Member>
     <Member MemberName="AscW">
       <MemberSignature Language="C#" Value="public static int AscW (string String);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 AscW(string String) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 AscW(string String) cil managed" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.AscW(System.String)" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int AscW(System::String ^ String);" />
       <MemberSignature Language="F#" Value="static member AscW : string -&gt; int" Usage="Microsoft.VisualBasic.Strings.AscW String" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 AscW(string String) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -292,11 +296,12 @@
     </Member>
     <Member MemberName="Chr">
       <MemberSignature Language="C#" Value="public static char Chr (int CharCode);" />
-      <MemberSignature Language="ILAsm" Value=".method public static char Chr(int32 CharCode) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig char Chr(int32 CharCode) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Chr(System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Public Function Chr (CharCode As Integer) As Char" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static char Chr(int CharCode);" />
       <MemberSignature Language="F#" Value="static member Chr : int -&gt; char" Usage="Microsoft.VisualBasic.Strings.Chr CharCode" />
+      <MemberSignature Language="ILAsm" Value=".method public static char Chr(int32 CharCode) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -357,11 +362,12 @@
     </Member>
     <Member MemberName="ChrW">
       <MemberSignature Language="C#" Value="public static char ChrW (int CharCode);" />
-      <MemberSignature Language="ILAsm" Value=".method public static char ChrW(int32 CharCode) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig char ChrW(int32 CharCode) cil managed" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.ChrW(System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Public Function ChrW (CharCode As Integer) As Char" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static char ChrW(int CharCode);" />
       <MemberSignature Language="F#" Value="static member ChrW : int -&gt; char" Usage="Microsoft.VisualBasic.Strings.ChrW CharCode" />
+      <MemberSignature Language="ILAsm" Value=".method public static char ChrW(int32 CharCode) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -431,10 +437,11 @@
     </MemberGroup>
     <Member MemberName="Filter">
       <MemberSignature Language="C#" Value="public static string[] Filter (object[] Source, string Match, bool Include = true, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string[] Filter(object[] Source, string Match, bool Include, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string[] Filter(object[] Source, string Match, bool Include, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Filter(System.Object[],System.String,System.Boolean,Microsoft.VisualBasic.CompareMethod)" />
       <MemberSignature Language="VB.NET" Value="Public Function Filter (Source As Object(), Match As String, Optional Include As Boolean = true, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As String()" />
       <MemberSignature Language="F#" Value="static member Filter : obj[] * string * bool * Microsoft.VisualBasic.CompareMethod -&gt; string[]" Usage="Microsoft.VisualBasic.Strings.Filter (Source, Match, Include, Compare)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string[] Filter(object[] Source, string Match, bool Include, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -502,10 +509,11 @@
     </Member>
     <Member MemberName="Filter">
       <MemberSignature Language="C#" Value="public static string[] Filter (string[] Source, string Match, bool Include = true, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string[] Filter(string[] Source, string Match, bool Include, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string[] Filter(string[] Source, string Match, bool Include, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Filter(System.String[],System.String,System.Boolean,Microsoft.VisualBasic.CompareMethod)" />
       <MemberSignature Language="VB.NET" Value="Public Function Filter (Source As String(), Match As String, Optional Include As Boolean = true, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As String()" />
       <MemberSignature Language="F#" Value="static member Filter : string[] * string * bool * Microsoft.VisualBasic.CompareMethod -&gt; string[]" Usage="Microsoft.VisualBasic.Strings.Filter (Source, Match, Include, Compare)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string[] Filter(string[] Source, string Match, bool Include, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1118,10 +1126,11 @@
     </MemberGroup>
     <Member MemberName="InStr">
       <MemberSignature Language="C#" Value="public static int InStr (string String1, string String2, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 InStr(string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 InStr(string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.InStr(System.String,System.String,Microsoft.VisualBasic.CompareMethod)" />
       <MemberSignature Language="VB.NET" Value="Public Function InStr (String1 As String, String2 As String, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As Integer" />
       <MemberSignature Language="F#" Value="static member InStr : string * string * Microsoft.VisualBasic.CompareMethod -&gt; int" Usage="Microsoft.VisualBasic.Strings.InStr (String1, String2, Compare)" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 InStr(string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1232,14 +1241,16 @@
       </Docs>
     </Member>
     <Member MemberName="InStr">
-      <MemberSignature Language="C#" Value="public static int InStr (int Start, string String1, string String2, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 InStr(int32 Start, string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.InStr(System.Int32,System.String,System.String,Microsoft.VisualBasic.CompareMethod)" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
-      <MemberSignature Language="VB.NET" Value="Public Function InStr (Start As Integer, String1 As String, String2 As String, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As Integer" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
-      <MemberSignature Language="F#" Value="static member InStr : int * string * string * Microsoft.VisualBasic.CompareMethod -&gt; int" Usage="Microsoft.VisualBasic.Strings.InStr (Start, String1, String2, Compare)" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberSignature Language="C#" Value="public static int InStr (int StartPos, string String1, string String2, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 InStr(int32 StartPos, string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.InStr(System.Int32,System.String,System.String,Microsoft.VisualBasic.CompareMethod)" />
       <MemberSignature Language="VB.NET" Value="Public Function InStr (StartPos As Integer, String1 As String, String2 As String, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As Integer" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="F#" Value="static member InStr : int * string * string * Microsoft.VisualBasic.CompareMethod -&gt; int" Usage="Microsoft.VisualBasic.Strings.InStr (StartPos, String1, String2, Compare)" FrameworkAlternate="netcore-3.0" />
+      <MemberSignature Language="C#" Value="public static int InStr (int Start, string String1, string String2, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 InStr(int32 Start, string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netframework-1.1" />
+      <MemberSignature Language="VB.NET" Value="Public Function InStr (Start As Integer, String1 As String, String2 As String, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As Integer" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="F#" Value="static member InStr : int * string * string * Microsoft.VisualBasic.CompareMethod -&gt; int" Usage="Microsoft.VisualBasic.Strings.InStr (Start, String1, String2, Compare)" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 InStr(int32 Start, string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1255,11 +1266,11 @@
         <ReturnType>System.Int32</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="Start" Type="System.Int32" Index="0" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
+        <Parameter Name="Start" Type="System.Int32" Index="0" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netframework-2.0" />
         <Parameter Name="StartPos" Type="System.Int32" Index="0" FrameworkAlternate="netcore-3.0" />
-        <Parameter Name="String1" Type="System.String" Index="1" FrameworkAlternate="netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
-        <Parameter Name="String2" Type="System.String" Index="2" FrameworkAlternate="netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
-        <Parameter Name="Compare" Type="Microsoft.VisualBasic.CompareMethod" Index="3" FrameworkAlternate="netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8">
+        <Parameter Name="String1" Type="System.String" Index="1" FrameworkAlternate="netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netframework-2.0" />
+        <Parameter Name="String2" Type="System.String" Index="2" FrameworkAlternate="netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netframework-2.0" />
+        <Parameter Name="Compare" Type="Microsoft.VisualBasic.CompareMethod" Index="3" FrameworkAlternate="netcore-3.0;netframework-1.1;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netframework-2.0">
           <Attributes>
             <Attribute>
               <AttributeName>Microsoft.VisualBasic.CompilerServices.OptionCompare</AttributeName>
@@ -1360,10 +1371,11 @@
     </Member>
     <Member MemberName="InStrRev">
       <MemberSignature Language="C#" Value="public static int InStrRev (string StringCheck, string StringMatch, int Start = -1, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 InStrRev(string StringCheck, string StringMatch, int32 Start, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 InStrRev(string StringCheck, string StringMatch, int32 Start, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.InStrRev(System.String,System.String,System.Int32,Microsoft.VisualBasic.CompareMethod)" />
       <MemberSignature Language="VB.NET" Value="Public Function InStrRev (StringCheck As String, StringMatch As String, Optional Start As Integer = -1, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As Integer" />
       <MemberSignature Language="F#" Value="static member InStrRev : string * string * int * Microsoft.VisualBasic.CompareMethod -&gt; int" Usage="Microsoft.VisualBasic.Strings.InStrRev (StringCheck, StringMatch, Start, Compare)" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 InStrRev(string StringCheck, string StringMatch, int32 Start, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1489,10 +1501,11 @@
     </MemberGroup>
     <Member MemberName="Join">
       <MemberSignature Language="C#" Value="public static string Join (object[] SourceArray, string Delimiter = &quot; &quot;);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string Join(object[] SourceArray, string Delimiter) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string Join(object[] SourceArray, string Delimiter) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Join(System.Object[],System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function Join (SourceArray As Object(), Optional Delimiter As String = &quot; &quot;) As String" />
       <MemberSignature Language="F#" Value="static member Join : obj[] * string -&gt; string" Usage="Microsoft.VisualBasic.Strings.Join (SourceArray, Delimiter)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string Join(object[] SourceArray, string Delimiter) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1539,10 +1552,11 @@
     </Member>
     <Member MemberName="Join">
       <MemberSignature Language="C#" Value="public static string Join (string[] SourceArray, string Delimiter = &quot; &quot;);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string Join(string[] SourceArray, string Delimiter) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string Join(string[] SourceArray, string Delimiter) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Join(System.String[],System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function Join (SourceArray As String(), Optional Delimiter As String = &quot; &quot;) As String" />
       <MemberSignature Language="F#" Value="static member Join : string[] * string -&gt; string" Usage="Microsoft.VisualBasic.Strings.Join (SourceArray, Delimiter)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string Join(string[] SourceArray, string Delimiter) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1598,11 +1612,12 @@
     </MemberGroup>
     <Member MemberName="LCase">
       <MemberSignature Language="C#" Value="public static char LCase (char Value);" />
-      <MemberSignature Language="ILAsm" Value=".method public static char LCase(char Value) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig char LCase(char Value) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.LCase(System.Char)" />
       <MemberSignature Language="VB.NET" Value="Public Function LCase (Value As Char) As Char" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static char LCase(char Value);" />
       <MemberSignature Language="F#" Value="static member LCase : char -&gt; char" Usage="Microsoft.VisualBasic.Strings.LCase Value" />
+      <MemberSignature Language="ILAsm" Value=".method public static char LCase(char Value) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1650,11 +1665,12 @@
     </Member>
     <Member MemberName="LCase">
       <MemberSignature Language="C#" Value="public static string LCase (string Value);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string LCase(string Value) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string LCase(string Value) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.LCase(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function LCase (Value As String) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ LCase(System::String ^ Value);" />
       <MemberSignature Language="F#" Value="static member LCase : string -&gt; string" Usage="Microsoft.VisualBasic.Strings.LCase Value" />
+      <MemberSignature Language="ILAsm" Value=".method public static string LCase(string Value) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1702,11 +1718,12 @@
     </Member>
     <Member MemberName="Left">
       <MemberSignature Language="C#" Value="public static string Left (string str, int Length);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string Left(string str, int32 Length) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string Left(string str, int32 Length) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Left(System.String,System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Public Function Left (str As String, Length As Integer) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ Left(System::String ^ str, int Length);" />
       <MemberSignature Language="F#" Value="static member Left : string * int -&gt; string" Usage="Microsoft.VisualBasic.Strings.Left (str, Length)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string Left(string str, int32 Length) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1768,11 +1785,12 @@
     </MemberGroup>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (bool Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(bool Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(bool Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Boolean)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Boolean) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(bool Expression);" />
       <MemberSignature Language="F#" Value="static member Len : bool -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(bool Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1829,11 +1847,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (byte Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int8 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(unsigned int8 Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Byte)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Byte) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::Byte Expression);" />
       <MemberSignature Language="F#" Value="static member Len : byte -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int8 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1890,11 +1909,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (char Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(char Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(char Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Char)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Char) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(char Expression);" />
       <MemberSignature Language="F#" Value="static member Len : char -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(char Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -1951,11 +1971,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (DateTime Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(valuetype System.DateTime Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(valuetype System.DateTime Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.DateTime)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As DateTime) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(DateTime Expression);" />
       <MemberSignature Language="F#" Value="static member Len : DateTime -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(valuetype System.DateTime Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2012,11 +2033,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (decimal Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(valuetype System.Decimal Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(valuetype System.Decimal Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Decimal)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Decimal) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::Decimal Expression);" />
       <MemberSignature Language="F#" Value="static member Len : decimal -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(valuetype System.Decimal Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2073,11 +2095,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (double Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(float64 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(float64 Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Double)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Double) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(double Expression);" />
       <MemberSignature Language="F#" Value="static member Len : double -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(float64 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2134,11 +2157,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (short Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int16 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(int16 Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Int16)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Short) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(short Expression);" />
       <MemberSignature Language="F#" Value="static member Len : int16 -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int16 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2195,11 +2219,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (int Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int32 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(int32 Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Integer) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(int Expression);" />
       <MemberSignature Language="F#" Value="static member Len : int -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int32 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2256,11 +2281,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (long Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int64 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(int64 Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Int64)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Long) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(long Expression);" />
       <MemberSignature Language="F#" Value="static member Len : int64 -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int64 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2317,11 +2343,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (object Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(object Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(object Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Object)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Object) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::Object ^ Expression);" />
       <MemberSignature Language="F#" Value="static member Len : obj -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(object Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2383,11 +2410,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (sbyte Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int8 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(int8 Expression) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.SByte)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As SByte) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::SByte Expression);" />
       <MemberSignature Language="F#" Value="static member Len : sbyte -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(int8 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2449,11 +2477,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (float Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(float32 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(float32 Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.Single)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As Single) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(float Expression);" />
       <MemberSignature Language="F#" Value="static member Len : single -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(float32 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2510,11 +2539,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (string Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(string Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(string Expression) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As String) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::String ^ Expression);" />
       <MemberSignature Language="F#" Value="static member Len : string -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(string Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2571,11 +2601,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (ushort Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int16 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(unsigned int16 Expression) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.UInt16)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As UShort) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::UInt16 Expression);" />
       <MemberSignature Language="F#" Value="static member Len : uint16 -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int16 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2637,11 +2668,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (uint Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int32 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(unsigned int32 Expression) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.UInt32)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As UInteger) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::UInt32 Expression);" />
       <MemberSignature Language="F#" Value="static member Len : uint32 -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int32 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2703,11 +2735,12 @@
     </Member>
     <Member MemberName="Len">
       <MemberSignature Language="C#" Value="public static int Len (ulong Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int64 Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 Len(unsigned int64 Expression) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Len(System.UInt64)" />
       <MemberSignature Language="VB.NET" Value="Public Function Len (Expression As ULong) As Integer" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static int Len(System::UInt64 Expression);" />
       <MemberSignature Language="F#" Value="static member Len : uint64 -&gt; int" Usage="Microsoft.VisualBasic.Strings.Len Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 Len(unsigned int64 Expression) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2819,11 +2852,12 @@
     </Member>
     <Member MemberName="LTrim">
       <MemberSignature Language="C#" Value="public static string LTrim (string str);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string LTrim(string str) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string LTrim(string str) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.LTrim(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function LTrim (str As String) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ LTrim(System::String ^ str);" />
       <MemberSignature Language="F#" Value="static member LTrim : string -&gt; string" Usage="Microsoft.VisualBasic.Strings.LTrim str" />
+      <MemberSignature Language="ILAsm" Value=".method public static string LTrim(string str) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2879,11 +2913,12 @@
     </MemberGroup>
     <Member MemberName="Mid">
       <MemberSignature Language="C#" Value="public static string Mid (string str, int Start);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string Mid(string str, int32 Start) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string Mid(string str, int32 Start) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Mid(System.String,System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Public Function Mid (str As String, Start As Integer) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ Mid(System::String ^ str, int Start);" />
       <MemberSignature Language="F#" Value="static member Mid : string * int -&gt; string" Usage="Microsoft.VisualBasic.Strings.Mid (str, Start)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string Mid(string str, int32 Start) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -2944,11 +2979,12 @@
     </Member>
     <Member MemberName="Mid">
       <MemberSignature Language="C#" Value="public static string Mid (string str, int Start, int Length);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string Mid(string str, int32 Start, int32 Length) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string Mid(string str, int32 Start, int32 Length) cil managed" FrameworkAlternate="netcore-3.0;netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Mid(System.String,System.Int32,System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Public Function Mid (str As String, Start As Integer, Length As Integer) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ Mid(System::String ^ str, int Start, int Length);" />
       <MemberSignature Language="F#" Value="static member Mid : string * int * int -&gt; string" Usage="Microsoft.VisualBasic.Strings.Mid (str, Start, Length)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string Mid(string str, int32 Start, int32 Length) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3097,11 +3133,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="Right">
       <MemberSignature Language="C#" Value="public static string Right (string str, int Length);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string Right(string str, int32 Length) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string Right(string str, int32 Length) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Right(System.String,System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Public Function Right (str As String, Length As Integer) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ Right(System::String ^ str, int Length);" />
       <MemberSignature Language="F#" Value="static member Right : string * int -&gt; string" Usage="Microsoft.VisualBasic.Strings.Right (str, Length)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string Right(string str, int32 Length) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3204,11 +3241,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="RTrim">
       <MemberSignature Language="C#" Value="public static string RTrim (string str);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string RTrim(string str) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string RTrim(string str) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.RTrim(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function RTrim (str As String) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ RTrim(System::String ^ str);" />
       <MemberSignature Language="F#" Value="static member RTrim : string -&gt; string" Usage="Microsoft.VisualBasic.Strings.RTrim str" />
+      <MemberSignature Language="ILAsm" Value=".method public static string RTrim(string str) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3389,10 +3427,11 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="StrComp">
       <MemberSignature Language="C#" Value="public static int StrComp (string String1, string String2, Microsoft.VisualBasic.CompareMethod Compare = Microsoft.VisualBasic.CompareMethod.Binary);" />
-      <MemberSignature Language="ILAsm" Value=".method public static int32 StrComp(string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 StrComp(string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.StrComp(System.String,System.String,Microsoft.VisualBasic.CompareMethod)" />
       <MemberSignature Language="VB.NET" Value="Public Function StrComp (String1 As String, String2 As String, Optional Compare As CompareMethod = Microsoft.VisualBasic.CompareMethod.Binary) As Integer" />
       <MemberSignature Language="F#" Value="static member StrComp : string * string * Microsoft.VisualBasic.CompareMethod -&gt; int" Usage="Microsoft.VisualBasic.Strings.StrComp (String1, String2, Compare)" />
+      <MemberSignature Language="ILAsm" Value=".method public static int32 StrComp(string String1, string String2, valuetype Microsoft.VisualBasic.CompareMethod Compare) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3562,11 +3601,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </MemberGroup>
     <Member MemberName="StrDup">
       <MemberSignature Language="C#" Value="public static string StrDup (int Number, char Character);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string StrDup(int32 Number, char Character) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string StrDup(int32 Number, char Character) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.StrDup(System.Int32,System.Char)" />
       <MemberSignature Language="VB.NET" Value="Public Function StrDup (Number As Integer, Character As Char) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ StrDup(int Number, char Character);" />
       <MemberSignature Language="F#" Value="static member StrDup : int * char -&gt; string" Usage="Microsoft.VisualBasic.Strings.StrDup (Number, Character)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string StrDup(int32 Number, char Character) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3616,11 +3656,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="StrDup">
       <MemberSignature Language="C#" Value="public static object StrDup (int Number, object Character);" />
-      <MemberSignature Language="ILAsm" Value=".method public static object StrDup(int32 Number, object Character) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig object StrDup(int32 Number, object Character) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.StrDup(System.Int32,System.Object)" />
       <MemberSignature Language="VB.NET" Value="Public Function StrDup (Number As Integer, Character As Object) As Object" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::Object ^ StrDup(int Number, System::Object ^ Character);" />
       <MemberSignature Language="F#" Value="static member StrDup : int * obj -&gt; obj" Usage="Microsoft.VisualBasic.Strings.StrDup (Number, Character)" />
+      <MemberSignature Language="ILAsm" Value=".method public static object StrDup(int32 Number, object Character) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3670,11 +3711,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="StrDup">
       <MemberSignature Language="C#" Value="public static string StrDup (int Number, string Character);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string StrDup(int32 Number, string Character) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string StrDup(int32 Number, string Character) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.StrDup(System.Int32,System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function StrDup (Number As Integer, Character As String) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ StrDup(int Number, System::String ^ Character);" />
       <MemberSignature Language="F#" Value="static member StrDup : int * string -&gt; string" Usage="Microsoft.VisualBasic.Strings.StrDup (Number, Character)" />
+      <MemberSignature Language="ILAsm" Value=".method public static string StrDup(int32 Number, string Character) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3724,11 +3766,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="StrReverse">
       <MemberSignature Language="C#" Value="public static string StrReverse (string Expression);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string StrReverse(string Expression) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string StrReverse(string Expression) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.StrReverse(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function StrReverse (Expression As String) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ StrReverse(System::String ^ Expression);" />
       <MemberSignature Language="F#" Value="static member StrReverse : string -&gt; string" Usage="Microsoft.VisualBasic.Strings.StrReverse Expression" />
+      <MemberSignature Language="ILAsm" Value=".method public static string StrReverse(string Expression) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3769,11 +3812,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="Trim">
       <MemberSignature Language="C#" Value="public static string Trim (string str);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string Trim(string str) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string Trim(string str) cil managed" FrameworkAlternate="netcore-3.0" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.Trim(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function Trim (str As String) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ Trim(System::String ^ str);" />
       <MemberSignature Language="F#" Value="static member Trim : string -&gt; string" Usage="Microsoft.VisualBasic.Strings.Trim str" />
+      <MemberSignature Language="ILAsm" Value=".method public static string Trim(string str) cil managed" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3829,11 +3873,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </MemberGroup>
     <Member MemberName="UCase">
       <MemberSignature Language="C#" Value="public static char UCase (char Value);" />
-      <MemberSignature Language="ILAsm" Value=".method public static char UCase(char Value) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig char UCase(char Value) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.UCase(System.Char)" />
       <MemberSignature Language="VB.NET" Value="Public Function UCase (Value As Char) As Char" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static char UCase(char Value);" />
       <MemberSignature Language="F#" Value="static member UCase : char -&gt; char" Usage="Microsoft.VisualBasic.Strings.UCase Value" />
+      <MemberSignature Language="ILAsm" Value=".method public static char UCase(char Value) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
@@ -3882,11 +3927,12 @@ Dim aString As String = Replace(TestString, "o", "i")
     </Member>
     <Member MemberName="UCase">
       <MemberSignature Language="C#" Value="public static string UCase (string Value);" />
-      <MemberSignature Language="ILAsm" Value=".method public static string UCase(string Value) cil managed" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig string UCase(string Value) cil managed" FrameworkAlternate="netframework-1.1" />
       <MemberSignature Language="DocId" Value="M:Microsoft.VisualBasic.Strings.UCase(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function UCase (Value As String) As String" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static System::String ^ UCase(System::String ^ Value);" />
       <MemberSignature Language="F#" Value="static member UCase : string -&gt; string" Usage="Microsoft.VisualBasic.Strings.UCase Value" />
+      <MemberSignature Language="ILAsm" Value=".method public static string UCase(string Value) cil managed" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic</AssemblyName>
